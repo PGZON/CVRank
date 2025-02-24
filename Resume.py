@@ -115,7 +115,7 @@ else:
 # Footer
 st.markdown("""
     <div class="footer">
-        <p>&copy; 2023 AI Resume Screening & Candidate Ranking System. All rights reserved.</p>
+        <p>&copy; 2025 AI Resume Screening & Candidate Ranking System. All rights reserved.</p>
     </div>
 """, unsafe_allow_html=True)
 
