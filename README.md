@@ -20,7 +20,7 @@ The AI Resume Screening & Candidate Ranking System is a Streamlit-based web appl
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/PGZON/Resume_Ranking.git
+    git clone https://github.com/PGZON/CVRank.git
     cd Resume_Ranking
     ```
 
