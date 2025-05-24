@@ -1,7 +1,7 @@
 # AI Resume Screening & Candidate Ranking System
 
 ## Overview
-
+ 
 The AI Resume Screening & Candidate Ranking System is a Streamlit-based web application designed to help recruiters and hiring managers efficiently screen and rank resumes based on a given job description. The application uses Natural Language Processing (NLP) techniques to analyze the content of resumes and compare them to the job description, providing a ranking score for each resume.
 
 ## Features
